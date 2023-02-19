@@ -33,7 +33,7 @@ def main():
                 print("Success")
             else:
                 print(mismatch)
-    elif select_input.upper() == "I":
+    else:
         text = input()
         mismatch = find_mismatch(text)
         if mismatch == None:
