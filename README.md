@@ -1,6 +1,6 @@
 [![Open in Visual Studio Codee](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10179744&assignment_repo_type=AssignmentRepo)
 # stack_brackets
-Task. Your friend is making a text editor for programmers. He is currently working on a feature that will
+Taskkkkkk. Your friend is making a text editor for programmers. He is currently working on a feature that will
 find errors in the usage of different types of brackets. Code can contain any brackets from the set
 []{}(), where the opening brackets are [,{, and ( and the closing brackets corresponding to them
 are ],}, and ).
