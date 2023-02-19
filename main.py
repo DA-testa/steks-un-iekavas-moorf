@@ -23,7 +23,8 @@ def find_mismatch(text):
 
 
 def main():
-    select_input = input("input - F or I")
+    print("input - F or I")
+    select_input = input()
     if select_input.upper() == "F":
         file_path = input("choose file (input path)")
         with open(file_path, "r") as f:
